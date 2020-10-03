@@ -28,7 +28,7 @@ class App extends React.Component {
               <li>Manufacturer: {s.manufacturer}</li>
               <li>Shoe Color: {s.color}</li>
               <li>Material: {s.material}</li>
-              <li>Shoe Style: {s.shoe_type}</li>
+              <li>Shoe Type: {s.shoe_type}</li>
               <li>Fasten Type: {s.fasten_type}</li>
             </ul>
           ))}
